@@ -1,0 +1,20 @@
+{
+  "recentFiles": [
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "未命名 1.md"
+    },
+    {
+      "basename": "My Code File",
+      "path": "My Code File.ts"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

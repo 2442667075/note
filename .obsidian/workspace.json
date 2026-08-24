@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "bd07d42a39d705ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "50db4b09003fbef8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eb517c25022636d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a2158b81eec23a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f1442910d4eaa36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4409daaf72a70d09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a71706db20a0eeee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0445772ed712af02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "80d1a2596d91809e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.16668701171875
+  },
+  "right": {
+    "id": "89b7f039a5950772",
+    "type": "split",
+    "children": [
+      {
+        "id": "036af5edbdcca7ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a699a51ea76300ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "5c48794c86e1aeba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "8496fd7a2af0fb9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "57ff905d3f11a0ff",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "4168e788bf9c1da3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "computer_language/C语言学习笔记.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "eeac2326316e61a9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "2a0607792885f9c2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "8e17d7bd7d238c2c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.833251953125
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "code-files:Create Code File": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "4409daaf72a70d09",
+  "lastOpenFiles": [
+    "computer_language",
+    "README.md",
+    "computer_language/C语言学习笔记.md",
+    "computer_language/附件/Pasted image 20260824083746.png",
+    "computer_language/附件",
+    "computer_language/Pasted image 20260824083712.png",
+    "未命名",
+    "未命名 1.md",
+    "My Code File.ts",
+    "计算机语言/未命名.md",
+    "计算机语言/目录.md",
+    "未命名思维导图.md",
+    "linux命令.md",
+    "未命名.canvas",
+    "文件格.md",
+    "计算机语言",
+    "1-programming-languages/C/结构体.md",
+    "1-programming-languages/C/指针.md",
+    "2-data-structure-algorithms/数据结构与算法.md",
+    "2-data-structure-algorithms/code",
+    "2-数据结构与算法/code.exe",
+    "2-数据结构与算法/code.c",
+    "2-数据结构与算法/code。c",
+    "9-通信协议/通信协议.md",
+    "0-收集箱/未命名.md",
+    "1-编程语言/C/C语言.md",
+    "0-收集箱/设计模式/面对对象的设计模式.md",
+    "0-收集箱/设计模式",
+    "欢迎.md"
+  ]
+}
