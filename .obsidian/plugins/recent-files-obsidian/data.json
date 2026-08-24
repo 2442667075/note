@@ -1,8 +1,112 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux嵌入式开发学习路线",
+      "path": "Linux嵌入式开发学习路线.md"
+    },
+    {
+      "basename": "计划",
+      "path": "计划.md"
+    },
+    {
+      "basename": "操作系统概念",
+      "path": "操作系统/操作系统概念.pdf"
+    },
+    {
+      "basename": "block",
+      "path": "计算机语言与编程/C++/c《C++ Primer Plus（第6版）中文版》/C++ Primer Plus第6版中文版源代码/Chapter 5/block.cpp"
+    },
+    {
+      "basename": "SensorTest",
+      "path": "设计模式/Design-Patterns-for-Embedded-system-in-C-master/chapter01/01-Sensor/SensorTest.c"
+    },
+    {
+      "basename": "arith",
+      "path": "计算机语言与编程/C++/c《C++ Primer Plus（第6版）中文版》/C++ Primer Plus第6版中文版源代码/Chapter 3/arith.cpp"
+    },
+    {
+      "basename": "bondini",
+      "path": "计算机语言与编程/C++/c《C++ Primer Plus（第6版）中文版》/C++ Primer Plus第6版中文版源代码/Chapter 3/bondini.cpp"
+    },
+    {
+      "basename": "carrots",
+      "path": "计算机语言与编程/C++/c《C++ Primer Plus（第6版）中文版》/C++ Primer Plus第6版中文版源代码/Chapter 2/carrots.cpp"
+    },
+    {
+      "basename": "myfirst",
+      "path": "计算机语言与编程/C++/c《C++ Primer Plus（第6版）中文版》/C++ Primer Plus第6版中文版源代码/Chapter 2/myfirst.cpp"
+    },
+    {
+      "basename": "convert",
+      "path": "计算机语言与编程/C++/c《C++ Primer Plus（第6版）中文版》/C++ Primer Plus第6版中文版源代码/Chapter 2/convert.cpp"
+    },
+    {
+      "basename": "C陷阱与缺陷",
+      "path": "计算机语言与编程/C/C陷阱与缺陷.pdf"
+    },
+    {
+      "basename": "[嵌入式系统软件设计中的数据结构].(陆玲,周航慈).扫描版(sou.mj0351.com).pdf",
+      "path": "数据结构与算法/[嵌入式系统软件设计中的数据结构].(陆玲,周航慈).扫描版(sou.mj0351.com).pdf.pdf"
+    },
+    {
+      "basename": "getinfo",
+      "path": "计算机语言与编程/C++/c《C++ Primer Plus（第6版）中文版》/C++ Primer Plus第6版中文版源代码/Chapter 2/getinfo.cpp"
+    },
+    {
       "basename": "README",
-      "path": "README.md"
+      "path": "数据结构与算法/bilibili-0-master/README.md"
+    },
+    {
+      "basename": "c和指针课后题答案(清晰完整版)",
+      "path": "计算机语言与编程/C/c和指针课后题答案(清晰完整版).pdf"
+    },
+    {
+      "basename": "C 和指针",
+      "path": "计算机语言与编程/C/C 和指针.pdf"
+    },
+    {
+      "basename": "C和指针",
+      "path": "计算机语言与编程/C/C和指针.pdf"
+    },
+    {
+      "basename": "GNU+Make项目管理(第三版)",
+      "path": "Linux/03_Linux工程开发基础/GNU+Make项目管理(第三版).pdf"
+    },
+    {
+      "basename": "程序员的自我修养—链接、装载与库",
+      "path": "Linux/03_Linux工程开发基础/程序员的自我修养—链接、装载与库.pdf"
+    },
+    {
+      "basename": "debuging_with_gdb",
+      "path": "Linux/03_Linux工程开发基础/debuging_with_gdb.pdf"
+    },
+    {
+      "basename": "跟我一起写makefile",
+      "path": "Linux/03_Linux工程开发基础/跟我一起写makefile.pdf"
+    },
+    {
+      "basename": "07_2_file_test_operators",
+      "path": "Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part2/07_2_file_test_operators.md"
+    },
+    {
+      "basename": "SUMMARY",
+      "path": "Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/SUMMARY.md"
+    },
+    {
+      "basename": "README",
+      "path": "Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/README.md"
+    },
+    {
+      "basename": "TERM",
+      "path": "Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/TERM.md"
+    },
+    {
+      "basename": "第28章_运行级别脚本",
+      "path": "Linux/02_Shell脚本与Linux工具/Shell脚本学习[全面强大]/第28章_运行级别脚本.pdf"
+    },
+    {
+      "basename": "第10章_sed用法介绍",
+      "path": "Linux/02_Shell脚本与Linux工具/Shell脚本学习[全面强大]/第10章_sed用法介绍.pdf"
     },
     {
       "basename": "未命名 1",
