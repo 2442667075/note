@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50db4b09003fbef8",
+        "id": "ab98d9574a062664",
         "type": "tabs",
         "children": [
           {
-            "id": "1eb517c25022636d",
+            "id": "f3df90e127fe8118",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"code/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.16668701171875
+    "width": 246.16668701171875
   },
   "right": {
     "id": "89b7f039a5950772",
@@ -103,6 +103,21 @@
         "id": "036af5edbdcca7ee",
         "type": "tabs",
         "children": [
+          {
+            "id": "4168e788bf9c1da3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
           {
             "id": "a699a51ea76300ed",
             "type": "leaf",
@@ -166,21 +181,6 @@
             }
           },
           {
-            "id": "4168e788bf9c1da3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "computer_language/C语言学习笔记.md",
-                "followCursor": true,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "大纲"
-            }
-          },
-          {
             "id": "eeac2326316e61a9",
             "type": "leaf",
             "state": {
@@ -188,6 +188,16 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
+            }
+          },
+          {
+            "id": "8e17d7bd7d238c2c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -201,25 +211,24 @@
             }
           },
           {
-            "id": "8e17d7bd7d238c2c",
+            "id": "e36379846aab5910",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 305.833251953125
+    "width": 434.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "code-files:Create Code File": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
@@ -232,22 +241,48 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "vscode-editor:新建代码文件": false
     }
   },
-  "active": "4409daaf72a70d09",
+  "active": "8e17d7bd7d238c2c",
   "lastOpenFiles": [
-    "note/环境安装",
-    "code",
+    "计划/嵌入式芯片与系统软件概念全梳理.md",
+    "计划/计划.md",
+    "README.md",
+    "未命名.md",
+    "note/C++/C++ 关键字完整整理：嵌入式开发版.md",
+    "note/Linux/IO.md",
+    "note/计算机科学/计算机网络/计算机网络.md",
+    "note/计算机科学/计算机网络",
+    "note/计算机科学",
+    "note/Linux",
+    "note/C++",
     "note",
-    "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/STM32 USB Bootloader/uCOSII2.91+UCGUI3.90A(Support USB Mouse for HY35A) (Bootloader)/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/startup/iar/startup_stm32f10x_md.s",
-    "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/STM32 USB Bootloader/uCOSII2.91+UCGUI3.90A(Support USB Mouse for HY35A) (Bootloader)/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/startup/iar/startup_stm32f10x_xl.s",
-    "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/STM32 USB Bootloader/uCOSII2.91+UCGUI3.90A(Support USB Mouse for HY35A) (Bootloader)/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/startup/iar/startup_stm32f10x_md_vl.s",
-    "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/STM32 USB Bootloader/uCOSII2.91+UCGUI3.90A(Support USB Mouse for HY35A) (Bootloader)/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/startup/iar/startup_stm32f10x_ld_vl.s",
-    "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/STM32 USB Bootloader/uCOSII2.91+UCGUI3.90A(Support USB Mouse for HY35A) (Bootloader)/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/startup/iar/startup_stm32f10x_ld.s",
-    "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/STM32 USB Bootloader/uCOSII2.91+UCGUI3.90A(Support USB Mouse for HY35A) (Bootloader)/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/startup/iar/startup_stm32f10x_hd_vl.s",
-    "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/STM32 USB Bootloader/uCOSII2.91+UCGUI3.90A(Support USB Mouse for HY35A) (Bootloader)/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/startup/iar/startup_stm32f10x_hd.s",
-    "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/STM32 USB Bootloader/uCOSII2.91+UCGUI3.90A(Support USB Mouse for HY35A) (Bootloader)/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/startup/arm/startup_stm32f10x_ld_vl.s",
+    "新建文件夹",
+    "code",
+    "计划",
+    "其他/README.md",
+    "其他/嵌入式芯片与系统软件概念全梳理.md",
+    "note/计算机语言/C++/C++ 运算符大全.md",
+    "note/计算机语言/C++/关键字.md",
+    "note/计算机语言/C++/数组.md",
+    "note/计算机语言/C++/语法结构.md",
+    "note/计算机语言/C++/变量.md",
+    "note/计算机语言/C++/基本数据类型.md",
+    "note/计算机语言/C++/C++.md",
+    "note/计算机语言/C++/模板.md",
+    "code/computer_language/C/Linux嵌入式开发学习路线.md",
+    "code/computer_language/C++/01-helloworld.cpp",
+    "code/computer_language/C++/未命名",
+    "嵌入式芯片与系统软件概念全梳理.md",
+    "其他/面试/面试.md",
+    "note/计算机语言/C/指针.md",
+    "note/计算机语言/C/预处理命令.md",
+    "note/计算机语言/C/注释.md",
+    "note/计算机语言/C/C语言.md",
+    "note/数据结构与算法/数据结构与算法计划.md",
+    "note/计算机语言/计算机语言.md",
     "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/STM32 USB Bootloader/uCOSII2.91+UCGUI3.90A(Support USB Mouse for HY35A) (Bootloader)/uCGUI_LIB/USER/uCGUI/JPEG/Image/testprog.jpg",
     "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/STM32 USB Bootloader/uCOSII2.91+UCGUI3.90A(Support USB Mouse for HY35A) (Bootloader)/uCGUI_LIB/USER/uCGUI/JPEG/Image/testorig.jpg",
     "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/STM32 USB Bootloader/uCOSII2.91+UCGUI3.90A(Support USB Mouse for HY35A) (Bootloader)/uCGUI_LIB/USER/uCGUI/JPEG/Image/testimgp.jpg",
@@ -258,31 +293,6 @@
     "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/Voltmeter (HY35A)/uCGUI_LIB/USER/uCGUI/JPEG/Image/testorig.jpg",
     "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/Voltmeter (HY35A)/uCGUI_LIB/USER/uCGUI/JPEG/Image/testimgp.jpg",
     "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/Voltmeter (HY35A)/uCGUI_LIB/USER/uCGUI/JPEG/Image/testimg.jpg",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/36_8_3_writing_secure_shell_scripts.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/part5.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/36_8_2_hiding_shell_script_source.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/36_miscellany.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/36_8_security_issues.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/36_9_portability_issues.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/36_8_1_infected_shell_scripts.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/36_7_assorted_tips.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/36_7_1_ideas_for_more_powerful_scripts.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/36_6_optimizations.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/36_7_2_widgets.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/36_4_recursion_a_script_calling_itself.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/36_5_colorizing_scripts.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/36_2_shell_wrappers.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/36_3_tests_and_comparisons_alternatives.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/36_1_interactive_and_non-interactive_shells_and_scripts.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/34_Gotchas.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/36_10_shell_scripting_under_windows.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/33_options.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/29_devproc.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/32_Debugging.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/30_network_programming.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/29_2_procref1.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/29_1_devref1.md",
-    "嵌入式Linux开发资料/Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part5/27_arrays.md",
     "未命名.canvas"
   ]
 }

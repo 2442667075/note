@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Linux嵌入式开发学习路线",
-      "path": "Linux嵌入式开发学习路线.md"
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "嵌入式芯片与系统软件概念全梳理",
+      "path": "计划/嵌入式芯片与系统软件概念全梳理.md"
     },
     {
       "basename": "计划",
-      "path": "计划.md"
+      "path": "计划/计划.md"
+    },
+    {
+      "basename": "C++ 关键字完整整理：嵌入式开发版",
+      "path": "note/C++/C++ 关键字完整整理：嵌入式开发版.md"
+    },
+    {
+      "basename": "IO",
+      "path": "note/Linux/IO.md"
+    },
+    {
+      "basename": "计算机网络",
+      "path": "note/计算机科学/计算机网络/计算机网络.md"
     },
     {
       "basename": "操作系统概念",

@@ -1,6 +1,5 @@
 [
   "code-styler",
-  "code-files",
   "table-editor-obsidian",
   "breadcrumbs",
   "calendar",
@@ -17,8 +16,8 @@
   "note-refactor-obsidian",
   "obsidian-math-plus",
   "periodic-notes",
-  "quickadd",
   "obsidian-style-settings",
   "recent-files-obsidian",
-  "obsidian-markmind"
+  "obsidian-markmind",
+  "vscode-editor"
 ]
