@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "嵌入式芯片与系统软件概念全梳理",
-      "path": "计划/嵌入式芯片与系统软件概念全梳理.md"
-    },
-    {
-      "basename": "C++ 关键字完整整理：嵌入式开发版",
-      "path": "note/C++/C++ 关键字完整整理：嵌入式开发版.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "code/C++/未命名.md"
     },
     {
       "basename": "操作系统概念",
@@ -83,42 +79,6 @@
     {
       "basename": "debuging_with_gdb",
       "path": "Linux/03_Linux工程开发基础/debuging_with_gdb.pdf"
-    },
-    {
-      "basename": "跟我一起写makefile",
-      "path": "Linux/03_Linux工程开发基础/跟我一起写makefile.pdf"
-    },
-    {
-      "basename": "07_2_file_test_operators",
-      "path": "Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/source/part2/07_2_file_test_operators.md"
-    },
-    {
-      "basename": "SUMMARY",
-      "path": "Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/SUMMARY.md"
-    },
-    {
-      "basename": "README",
-      "path": "Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/README.md"
-    },
-    {
-      "basename": "TERM",
-      "path": "Linux/02_Shell脚本与Linux工具/Advanced-Bash-Scripting-Guide-in-Chinese-master/TERM.md"
-    },
-    {
-      "basename": "第28章_运行级别脚本",
-      "path": "Linux/02_Shell脚本与Linux工具/Shell脚本学习[全面强大]/第28章_运行级别脚本.pdf"
-    },
-    {
-      "basename": "第10章_sed用法介绍",
-      "path": "Linux/02_Shell脚本与Linux工具/Shell脚本学习[全面强大]/第10章_sed用法介绍.pdf"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "未命名 1.md"
-    },
-    {
-      "basename": "My Code File",
-      "path": "My Code File.ts"
     }
   ],
   "omittedPaths": [],

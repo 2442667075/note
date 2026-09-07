@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f050716502d85f87",
+        "id": "8ebc27aa04640714",
         "type": "tabs",
         "children": [
           {
-            "id": "b254c5d92e5e25b7",
+            "id": "905c70d37613945f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计划/嵌入式芯片与系统软件概念全梳理.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "嵌入式芯片与系统软件概念全梳理"
+              "title": "新标签页"
             }
           }
         ]
@@ -85,8 +81,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
@@ -109,7 +105,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/C++/C++ 关键字完整整理：嵌入式开发版.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -152,6 +147,16 @@
             }
           },
           {
+            "id": "eeac2326316e61a9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
             "id": "8496fd7a2af0fb9b",
             "type": "leaf",
             "state": {
@@ -178,16 +183,6 @@
               },
               "icon": "lucide-archive",
               "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "eeac2326316e61a9",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
             }
           },
           {
@@ -225,16 +220,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.1666259765625
+    "width": 486.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
+      "vscode-editor:新建代码文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -242,57 +232,62 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "vscode-editor:新建代码文件": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4409daaf72a70d09",
+  "active": "8e17d7bd7d238c2c",
   "lastOpenFiles": [
-    "note/C++",
+    "note/Linux/man.md",
+    "笔记技巧.md",
+    "note/Linux/Linux命令.md",
+    "note/C++/STL.md",
     "note/C++/C++ 关键字完整整理：嵌入式开发版.md",
-    "note/Linux/IO.md",
-    "计划/计划.md",
+    "README.md",
+    "链接.md",
+    "C/字符串.md",
     "计划/嵌入式芯片与系统软件概念全梳理.md",
-    "note/计算机科学/计算机网络/概述.md",
-    "note/计算机科学/计算机网络/计算机网络.md",
+    "计划/嵌入式全栈学习知识地图.md",
+    "C/多文件编译.md",
+    "ASCII码.md",
+    "code/C/c.c",
+    "C/文件操作.md",
+    "C/程序的编译与预处理.md",
+    "C/assist/Pasted image 20260907153714.png",
+    "C/assist/Pasted image 20260907153651.png",
+    "C/assist/Pasted image 20260907153647.png",
+    "C/指针.md",
+    "code/C/c.exe",
+    "C/常量与变量.md",
+    "C/进制.md",
+    "C/函数.md",
+    "C/库函数.md",
+    "C/预处理.md",
+    "C/C.md",
+    "C/数组.md",
+    "C/文件的流.md",
+    "C/结构体.md",
+    "assist/Pasted image 20260907140233.png",
+    "assist",
+    "C/关键字.md",
+    "C/流程控制.md",
+    "C/assist/Pasted image 20260907135326.png",
+    "C/assist",
+    "note/Book/C语言接口与实现",
+    "note/Book",
+    "code/C",
+    "code/新建文件夹",
+    "code/C++",
+    "note/Toos/vim/assist/Pasted image 20260905162718.png",
+    "note/Toos/vim/assist",
     "note/计算机科学/计算机网络/附件/Pasted image 20260831091140.png",
     "note/计算机科学/计算机网络/附件/Pasted image 20260831091202.png",
     "note/计算机科学/计算机网络/附件/Pasted image 20260831091144.png",
     "note/计算机科学/计算机网络/附件/Pasted image 20260831091034.png",
-    "note/计算机科学/计算机网络/附件",
-    "README.md",
-    "未命名.md",
-    "note/计算机科学/计算机网络",
-    "note/计算机科学",
-    "note/Linux",
-    "note/C++",
-    "note",
-    "新建文件夹",
-    "code",
-    "计划",
-    "其他/README.md",
-    "其他/嵌入式芯片与系统软件概念全梳理.md",
-    "note/计算机语言/C++/C++ 运算符大全.md",
-    "note/计算机语言/C++/关键字.md",
-    "note/计算机语言/C++/数组.md",
-    "note/计算机语言/C++/语法结构.md",
-    "note/计算机语言/C++/变量.md",
-    "note/计算机语言/C++/基本数据类型.md",
-    "note/计算机语言/C++/C++.md",
-    "note/计算机语言/C++/模板.md",
-    "code/computer_language/C/Linux嵌入式开发学习路线.md",
-    "code/computer_language/C++/01-helloworld.cpp",
-    "嵌入式芯片与系统软件概念全梳理.md",
-    "其他/面试/面试.md",
-    "note/计算机语言/C/指针.md",
-    "note/计算机语言/C/预处理命令.md",
-    "note/计算机语言/C/注释.md",
-    "note/计算机语言/C/C语言.md",
-    "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/STM32 USB Bootloader/uCOSII2.91+UCGUI3.90A(Support USB Mouse for HY35A) (Bootloader)/uCGUI_LIB/USER/uCGUI/JPEG/Image/testprog.jpg",
-    "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/STM32 USB Bootloader/uCOSII2.91+UCGUI3.90A(Support USB Mouse for HY35A) (Bootloader)/uCGUI_LIB/USER/uCGUI/JPEG/Image/testorig.jpg",
-    "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/STM32 USB Bootloader/uCOSII2.91+UCGUI3.90A(Support USB Mouse for HY35A) (Bootloader)/uCGUI_LIB/USER/uCGUI/JPEG/Image/testimgp.jpg",
-    "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/STM32 USB Bootloader/uCOSII2.91+UCGUI3.90A(Support USB Mouse for HY35A) (Bootloader)/uCGUI_LIB/USER/uCGUI/JPEG/Image/testimg.jpg",
-    "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/STM32 USB Bootloader/uCOSII2.91+UCGUI3.90A(Support USB Mouse for HY35A) (Bootloader)/uCGUI_LIB/USER/uCGUI/JPEG/Image/testimg.bmp",
-    "嵌入式Linux开发资料/stm32/STM32入门教程资料/模块资料/1-STM32F103C8T6核心板/网络收集参考例程/uCOSII2.91+UCGUI3.90A(Support USB Mouse for HY35A)/uCGUI_LIB/USER/uCGUI/JPEG/Image/testimg.jpg",
     "未命名.canvas"
   ]
 }
