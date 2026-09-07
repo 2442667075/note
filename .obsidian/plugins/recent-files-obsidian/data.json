@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "C语言",
+      "path": "01_C语言/C语言.md"
+    },
+    {
+      "basename": "结构体与联合体",
+      "path": "01_C语言/结构体与联合体.md"
+    },
+    {
+      "basename": "函数",
+      "path": "01_C语言/函数.md"
+    },
+    {
+      "basename": "数组",
+      "path": "01_C语言/数组.md"
+    },
+    {
+      "basename": "指针",
+      "path": "01_C语言/指针.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
