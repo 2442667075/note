@@ -1,28 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "C语言",
-      "path": "01_C语言/C语言.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "结构体与联合体",
-      "path": "01_C语言/结构体与联合体.md"
+      "basename": "嵌入式系统基础概念笔记",
+      "path": "嵌入式系统基础概念笔记.md"
+    },
+    {
+      "basename": "CSAPP(深入理解计算机系统)",
+      "path": "note/04_计算机组成原理/CSAPP(深入理解计算机系统).md"
+    },
+    {
+      "basename": "IO流",
+      "path": "note/02_计算机语言/C与C++/语法/IO流.md"
+    },
+    {
+      "basename": "缺省值",
+      "path": "note/02_计算机语言/C与C++/语法/缺省值.md"
+    },
+    {
+      "basename": "语法结构",
+      "path": "note/02_计算机语言/C与C++/语法/语法结构.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "note/03_数据结构与算法/未命名.md"
+    },
+    {
+      "basename": "Linux系统编程",
+      "path": "note/10_Linux/02_Linux系统编程/Linux系统编程.md"
+    },
+    {
+      "basename": "常见的指令集",
+      "path": "note/04_计算机组成原理/常见的指令集.md"
+    },
+    {
+      "basename": "嵌入式的自我修养",
+      "path": "note/04_计算机组成原理/嵌入式的自我修养.md"
+    },
+    {
+      "basename": "01_GCC",
+      "path": "note/12_Git与开发工具/01_GCC.md"
+    },
+    {
+      "basename": "Linux 工具",
+      "path": "note/10_Linux/01_Linux基础/Linux 工具.md"
+    },
+    {
+      "basename": "linux命令",
+      "path": "note/10_Linux/01_Linux基础/linux命令.md"
+    },
+    {
+      "basename": "vim",
+      "path": "note/10_Linux/01_Linux基础/Vim/vim.md"
+    },
+    {
+      "basename": "watch",
+      "path": "note/10_Linux/01_Linux基础/Linux 命令/watch.md"
+    },
+    {
+      "basename": "bc",
+      "path": "note/10_Linux/01_Linux基础/Linux 命令/bc.md"
+    },
+    {
+      "basename": "STL",
+      "path": "note/02_计算机语言/C与C++/02_C++/STL.md"
+    },
+    {
+      "basename": "变量",
+      "path": "note/02_计算机语言/C与C++/语法/变量.md"
+    },
+    {
+      "basename": "标识符",
+      "path": "note/02_计算机语言/C与C++/语法/标识符.md"
+    },
+    {
+      "basename": "C++",
+      "path": "note/02_计算机语言/C与C++/02_C++/C++.md"
+    },
+    {
+      "basename": "C语言",
+      "path": "note/02_计算机语言/C与C++/语法/C语言.md"
+    },
+    {
+      "basename": "文件操作",
+      "path": "note/02_计算机语言/C与C++/语法/文件操作.md"
+    },
+    {
+      "basename": "自定义数据结构",
+      "path": "note/02_计算机语言/C与C++/语法/自定义数据结构.md"
+    },
+    {
+      "basename": "引用",
+      "path": "note/02_计算机语言/C与C++/语法/引用.md"
+    },
+    {
+      "basename": "运算符",
+      "path": "note/02_计算机语言/C与C++/语法/运算符.md"
     },
     {
       "basename": "函数",
-      "path": "01_C语言/函数.md"
+      "path": "note/02_计算机语言/C与C++/语法/函数.md"
     },
     {
-      "basename": "数组",
-      "path": "01_C语言/数组.md"
+      "basename": "基本数据类型",
+      "path": "note/02_计算机语言/C与C++/语法/基本数据类型.md"
     },
     {
-      "basename": "指针",
-      "path": "01_C语言/指针.md"
+      "basename": "关键字",
+      "path": "note/02_计算机语言/C与C++/语法/关键字.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "输入和输出",
+      "path": "note/02_计算机语言/C与C++/语法/输入和输出.md"
+    },
+    {
+      "basename": "命名空间",
+      "path": "note/02_计算机语言/C与C++/语法/命名空间.md"
     },
     {
       "basename": "未命名",
@@ -67,38 +163,6 @@
     {
       "basename": "[嵌入式系统软件设计中的数据结构].(陆玲,周航慈).扫描版(sou.mj0351.com).pdf",
       "path": "数据结构与算法/[嵌入式系统软件设计中的数据结构].(陆玲,周航慈).扫描版(sou.mj0351.com).pdf.pdf"
-    },
-    {
-      "basename": "getinfo",
-      "path": "计算机语言与编程/C++/c《C++ Primer Plus（第6版）中文版》/C++ Primer Plus第6版中文版源代码/Chapter 2/getinfo.cpp"
-    },
-    {
-      "basename": "README",
-      "path": "数据结构与算法/bilibili-0-master/README.md"
-    },
-    {
-      "basename": "c和指针课后题答案(清晰完整版)",
-      "path": "计算机语言与编程/C/c和指针课后题答案(清晰完整版).pdf"
-    },
-    {
-      "basename": "C 和指针",
-      "path": "计算机语言与编程/C/C 和指针.pdf"
-    },
-    {
-      "basename": "C和指针",
-      "path": "计算机语言与编程/C/C和指针.pdf"
-    },
-    {
-      "basename": "GNU+Make项目管理(第三版)",
-      "path": "Linux/03_Linux工程开发基础/GNU+Make项目管理(第三版).pdf"
-    },
-    {
-      "basename": "程序员的自我修养—链接、装载与库",
-      "path": "Linux/03_Linux工程开发基础/程序员的自我修养—链接、装载与库.pdf"
-    },
-    {
-      "basename": "debuging_with_gdb",
-      "path": "Linux/03_Linux工程开发基础/debuging_with_gdb.pdf"
     }
   ],
   "omittedPaths": [],

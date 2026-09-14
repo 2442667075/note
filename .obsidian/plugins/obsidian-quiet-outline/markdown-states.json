@@ -1,0 +1,1045 @@
+{
+  "note/02_C++/关键字.md": {
+    "expandedKeys": [
+      "item-4-15",
+      "item-3-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 0
+      },
+      "to": {
+        "line": 17,
+        "ch": 0
+      }
+    },
+    "scroll": 3.693333983915092
+  },
+  "note/02_C++/未命名.md": {
+    "expandedKeys": [],
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 4
+      },
+      "to": {
+        "line": 0,
+        "ch": 4
+      }
+    }
+  },
+  "note/02_C++/引用.md": {
+    "cursor": {
+      "from": {
+        "line": 91,
+        "ch": 0
+      },
+      "to": {
+        "line": 91,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-4-0",
+      "item-4-21",
+      "item-4-17"
+    ],
+    "scroll": 60.14021325489831
+  },
+  "note/02_C++/C++.md": {
+    "expandedKeys": [],
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    }
+  },
+  "未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 36
+      },
+      "to": {
+        "line": 12,
+        "ch": 36
+      }
+    },
+    "scroll": 12.48393237953622
+  },
+  "note/02_C++/函数.md": {
+    "expandedKeys": [],
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/02_C++/命名空间.md": {
+    "expandedKeys": []
+  },
+  "note/02_C++/缺省值.md": {
+    "expandedKeys": []
+  },
+  "note/02_C++/输入和输出.md": {
+    "expandedKeys": []
+  },
+  "note/02_C++/标识符.md": {
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 0
+  },
+  "note/02_C++/基本数据类型.md": {
+    "cursor": {
+      "from": {
+        "line": 745,
+        "ch": 27
+      },
+      "to": {
+        "line": 745,
+        "ch": 27
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 648.1456904308865
+  },
+  "note/02_C++/语法结构.md": {
+    "expandedKeys": [],
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/02_C++/运算符.md": {
+    "expandedKeys": []
+  },
+  "note/02_C++/变量.md": {
+    "expandedKeys": []
+  },
+  "note/02_C++/文件操作.md": {
+    "cursor": {
+      "from": {
+        "line": 118,
+        "ch": 3
+      },
+      "to": {
+        "line": 118,
+        "ch": 3
+      }
+    },
+    "expandedKeys": [
+      "item-2-2",
+      "item-2-6"
+    ],
+    "scroll": 167.3315688037368
+  },
+  "note/01_C语言/未命名.md": {
+    "expandedKeys": []
+  },
+  "note/01_C语言/IO流.md": {
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "note/01_计算机语言/01_C语言/IO流.md": {
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    }
+  },
+  "note/02_计算机语言/01_C语言/C语言.md": {
+    "expandedKeys": []
+  },
+  "note/02_计算机语言/C与C++/02_C++/变量.md": {
+    "expandedKeys": []
+  },
+  "note/02_计算机语言/C与C++/02_C++/C++.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    }
+  },
+  "note/02_计算机语言/C与C++/标识符.md": {
+    "expandedKeys": []
+  },
+  "note/02_计算机语言/C与C++/IO流.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    }
+  },
+  "STL.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/02_计算机语言/C与C++/02_C++/STL.md": {
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 26.28858100043403
+  },
+  "note/02_计算机语言/C与C++/变量.md": {
+    "expandedKeys": []
+  },
+  "note/02_计算机语言/C与C++/语法/变量.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/10_Linux/01_Linux基础/未命名.md": {
+    "expandedKeys": [],
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 3
+      },
+      "to": {
+        "line": 0,
+        "ch": 3
+      }
+    }
+  },
+  "note/10_Linux/01_Linux基础/Linux目录.md": {
+    "cursor": {
+      "from": {
+        "line": 727,
+        "ch": 48
+      },
+      "to": {
+        "line": 727,
+        "ch": 48
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 703.3113149814504
+  },
+  "note/10_Linux/01_Linux基础/Linux终端命令.md": {
+    "cursor": {
+      "from": {
+        "line": 47,
+        "ch": 0
+      },
+      "to": {
+        "line": 47,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-4"
+    ],
+    "scroll": 53.54269644628726
+  },
+  "note/10_Linux/01_Linux基础/Linux文件和目录颜色含义.md": {
+    "cursor": {
+      "from": {
+        "line": 43,
+        "ch": 77
+      },
+      "to": {
+        "line": 43,
+        "ch": 77
+      }
+    },
+    "expandedKeys": [
+      "item-2-0"
+    ],
+    "scroll": 28.01675398892196
+  },
+  "note/10_Linux/01_Linux基础/帮助.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/10_Linux/01_Linux基础/帮助文档系统.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/10_Linux/01_Linux基础/帮助文档.md": {
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 6
+      },
+      "to": {
+        "line": 3,
+        "ch": 6
+      }
+    },
+    "expandedKeys": [
+      "item-1-25",
+      "item-1-13",
+      "item-2-0",
+      "item-3-2",
+      "item-3-6",
+      "item-1-17",
+      "item-1-21"
+    ],
+    "scroll": 394.18960813492066
+  },
+  "note/01_杂类资料箱/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/01_杂类资料箱/箱.md": {
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "note/10_Linux/01_Linux基础/Linux命令/帮助文档.md": {
+    "expandedKeys": [
+      "item-2-0",
+      "item-2-26",
+      "item-1-25"
+    ],
+    "scroll": 43.77552288258438,
+    "cursor": {
+      "from": {
+        "line": 366,
+        "ch": 0
+      },
+      "to": {
+        "line": 366,
+        "ch": 0
+      }
+    }
+  },
+  "note/10_Linux/01_Linux基础/Linux命令/未命名.md": {
+    "expandedKeys": [
+      "item-1-7",
+      "item-1-11"
+    ],
+    "scroll": 164.78202763310185,
+    "cursor": {
+      "from": {
+        "line": 192,
+        "ch": 0
+      },
+      "to": {
+        "line": 192,
+        "ch": 0
+      }
+    }
+  },
+  "note/10_Linux/01_Linux基础/Linux命令/文件相关.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 0
+  },
+  "通配符.md": {
+    "expandedKeys": [],
+    "scroll": 0
+  },
+  "note/01_杂类资料箱/未命名 1.md": {
+    "expandedKeys": []
+  },
+  "note/01_杂类资料箱/通配符.md": {
+    "expandedKeys": []
+  },
+  "note/10_Linux/01_Linux基础/通配符.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 0
+  },
+  "note/10_Linux/01_Linux基础/未命名 1.md": {
+    "expandedKeys": [],
+    "scroll": 0
+  },
+  "note/10_Linux/01_Linux基础/文件相关.md": {
+    "expandedKeys": [],
+    "scroll": 0
+  },
+  "note/10_Linux/01_Linux基础/Linux命令.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "scroll": 0
+  },
+  "note/10_Linux/01_Linux基础/未命名 2.md": {
+    "expandedKeys": []
+  },
+  "note/10_Linux/01_Linux基础/vim.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 7
+      },
+      "to": {
+        "line": 0,
+        "ch": 7
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 35.36716533114732
+  },
+  "note/10_Linux/01_Linux基础/软件包管理.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/10_Linux/01_Linux基础/Linux 命令.md": {
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 4
+      },
+      "to": {
+        "line": 7,
+        "ch": 4
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 0.7874015748031497
+  },
+  "ls.md": {
+    "expandedKeys": []
+  },
+  "note/10_Linux/01_Linux基础/Linux命令/vim.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/10_Linux/01_Linux基础/Linux命令/Linux终端命令.md": {
+    "expandedKeys": [],
+    "scroll": 18.87692825882523,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 18
+      },
+      "to": {
+        "line": 20,
+        "ch": 0
+      }
+    }
+  },
+  "note/10_Linux/01_Linux基础/Linux命令/Linux文件和目录颜色含义.md": {
+    "expandedKeys": [],
+    "scroll": 0
+  },
+  "note/10_Linux/01_Linux基础/Linux命令/Linux目录.md": {
+    "expandedKeys": [],
+    "scroll": 0
+  },
+  "note/10_Linux/01_Linux基础/Linux命令/Linux命令.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "scroll": 0
+  },
+  "note/10_Linux/01_Linux基础/Linux命令/环境变量.md": {
+    "expandedKeys": [],
+    "scroll": 0
+  },
+  "note/10_Linux/01_Linux基础/Linux命令/软件包管理.md": {
+    "expandedKeys": []
+  },
+  "note/10_Linux/01_Linux基础/Linux命令/未命名 1.md": {
+    "expandedKeys": [],
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/10_Linux/01_Linux基础/Linux命令/df.md": {
+    "cursor": {
+      "from": {
+        "line": 123,
+        "ch": 0
+      },
+      "to": {
+        "line": 123,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 26.598518663194444
+  },
+  "note/10_Linux/01_Linux基础/Linux命令/du.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "CLI.md": {
+    "cursor": {
+      "from": {
+        "line": 45,
+        "ch": 7
+      },
+      "to": {
+        "line": 45,
+        "ch": 7
+      }
+    },
+    "scroll": 20.021164021164022
+  },
+  "shell提示符.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "scroll": 0.14285714285714285
+  },
+  "note/10_Linux/01_Linux基础/bc.md": {
+    "cursor": {
+      "from": {
+        "line": 155,
+        "ch": 0
+      },
+      "to": {
+        "line": 155,
+        "ch": 0
+      }
+    },
+    "scroll": 130.9131876627604
+  },
+  "note/10_Linux/01_Linux基础/man.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/10_Linux/01_Linux基础/linux命令.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/10_Linux/01_Linux基础/watch.md": {
+    "scroll": 0
+  },
+  "note/10_Linux/01_Linux基础/Linux 命令/watch.md": {
+    "scroll": 0
+  },
+  "note/10_Linux/01_Linux基础/Linux 命令/linux命令.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/10_Linux/01_Linux基础/Vim.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/10_Linux/01_Linux基础/GCC.md": {
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    }
+  },
+  "note/10_Linux/01_Linux基础/Linux 工具.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 6
+      },
+      "to": {
+        "line": 0,
+        "ch": 6
+      }
+    }
+  },
+  "note/03_数据结构与算法/数据结构.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    }
+  },
+  "note/12_Git与开发工具/未命名.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 4
+      },
+      "to": {
+        "line": 0,
+        "ch": 4
+      }
+    }
+  },
+  "note/12_Git与开发工具/GDB.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 3
+      },
+      "to": {
+        "line": 0,
+        "ch": 3
+      }
+    }
+  },
+  "note/12_Git与开发工具/Make.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/12_Git与开发工具/Make_Cmake_.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/12_Git与开发工具/Make_Cmake_Makefile.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/12_Git与开发工具/01_GCC.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/17_面试/C语言面试题.md": {
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 19
+      },
+      "to": {
+        "line": 3,
+        "ch": 19
+      }
+    },
+    "scroll": 0.4859529401629478
+  },
+  "note/04_计算机组成原理/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "未命名 1.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "scroll": 40.767361111111114
+  },
+  "C语言面试题.md": {
+    "scroll": 15.578042328042327,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    }
+  },
+  "note/10_Linux/02_Linux系统编程/未命名.md": {
+    "scroll": 0
+  },
+  "note/03_数据结构与算法/未命名.md": {
+    "scroll": 76.40483580284877,
+    "cursor": {
+      "from": {
+        "line": 83,
+        "ch": 8
+      },
+      "to": {
+        "line": 83,
+        "ch": 8
+      }
+    }
+  },
+  "note/08_STM32/定时器.md": {
+    "cursor": {
+      "from": {
+        "line": 41,
+        "ch": 0
+      },
+      "to": {
+        "line": 41,
+        "ch": 0
+      }
+    },
+    "scroll": 30.713700186030206
+  },
+  "note/17_面试/stm32面试题.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/17_面试/ARM面试题.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 3
+      },
+      "to": {
+        "line": 0,
+        "ch": 3
+      }
+    }
+  },
+  "note/17_面试/MCU面试题.md": {
+    "cursor": {
+      "from": {
+        "line": 34,
+        "ch": 0
+      },
+      "to": {
+        "line": 34,
+        "ch": 0
+      }
+    },
+    "scroll": 12.58294790762442
+  },
+  "常见的指令集.md": {
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 17
+      },
+      "to": {
+        "line": 2,
+        "ch": 17
+      }
+    },
+    "scroll": 0
+  },
+  "note/04_计算机组成原理/常见的指令集.md": {
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    }
+  },
+  "嵌入式系统基础概念笔记.md": {
+    "cursor": {
+      "from": {
+        "line": 299,
+        "ch": 0
+      },
+      "to": {
+        "line": 299,
+        "ch": 0
+      }
+    },
+    "scroll": 251.17674150834773
+  },
+  "中断.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/10_Linux/02_Linux系统编程/系统编程.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/10_Linux/02_Linux系统编程/Linux系统编程.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/02_计算机语言/C与C++/语法/语法结构.md": {
+    "scroll": 0
+  },
+  "README.md": {
+    "scroll": 0
+  }
+}
