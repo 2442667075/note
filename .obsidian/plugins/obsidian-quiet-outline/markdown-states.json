@@ -997,7 +997,7 @@
         "ch": 0
       }
     },
-    "scroll": 251.17674150834773
+    "scroll": 0
   },
   "中断.md": {
     "scroll": 0,
@@ -1041,5 +1041,29 @@
   },
   "README.md": {
     "scroll": 0
+  },
+  "note/17_面试/C语言.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "note/17_面试/AI小智.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 1
+      },
+      "to": {
+        "line": 0,
+        "ch": 1
+      }
+    }
   }
 }

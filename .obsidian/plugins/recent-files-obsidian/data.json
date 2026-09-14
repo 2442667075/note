@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "自行车码表",
+      "path": "note/17_面试/自行车码表.md"
+    },
+    {
+      "basename": "AI小智",
+      "path": "note/17_面试/AI小智.md"
+    },
+    {
+      "basename": "Freertos",
+      "path": "note/17_面试/Freertos.md"
+    },
+    {
+      "basename": "STM32",
+      "path": "note/17_面试/STM32.md"
+    },
+    {
+      "basename": "C语言",
+      "path": "note/17_面试/C语言.md"
     },
     {
       "basename": "嵌入式系统基础概念笔记",
       "path": "嵌入式系统基础概念笔记.md"
+    },
+    {
+      "basename": "变量",
+      "path": "note/02_计算机语言/C与C++/语法/变量.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "CSAPP(深入理解计算机系统)",
@@ -67,10 +91,6 @@
     {
       "basename": "STL",
       "path": "note/02_计算机语言/C与C++/02_C++/STL.md"
-    },
-    {
-      "basename": "变量",
-      "path": "note/02_计算机语言/C与C++/语法/变量.md"
     },
     {
       "basename": "标识符",
