@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "STM32",
+      "path": "note/17_面试/STM32.md"
+    },
+    {
+      "basename": "Freertos",
+      "path": "note/17_面试/Freertos.md"
+    },
+    {
       "basename": "自行车码表",
       "path": "note/17_面试/自行车码表.md"
     },
@@ -9,20 +17,12 @@
       "path": "note/17_面试/AI小智.md"
     },
     {
-      "basename": "Freertos",
-      "path": "note/17_面试/Freertos.md"
-    },
-    {
-      "basename": "STM32",
-      "path": "note/17_面试/STM32.md"
-    },
-    {
       "basename": "C语言",
       "path": "note/17_面试/C语言.md"
     },
     {
       "basename": "嵌入式系统基础概念笔记",
-      "path": "嵌入式系统基础概念笔记.md"
+      "path": "note/17_面试/嵌入式系统基础概念笔记.md"
     },
     {
       "basename": "变量",
