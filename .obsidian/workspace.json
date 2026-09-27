@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ec963ba32cb3a9dd",
+        "id": "7ef5e9ee7718a0b2",
         "type": "tabs",
         "children": [
           {
-            "id": "a80f85f8dcd2aea4",
+            "id": "8c85aa5042618672",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "新标签页"
             }
           }
         ]
@@ -93,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.8333435058594
   },
   "right": {
     "id": "7e6536fe3a40fd96",
@@ -206,13 +202,43 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "42a953ed3dfb0bff",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "f1638b54211d7658",
+            "type": "leaf",
+            "state": {
+              "type": "planner-time-tracker",
+              "state": {},
+              "icon": "timer",
+              "title": "Time Tracker"
+            }
+          },
+          {
+            "id": "ebd27b111ad0382f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,14 +260,29 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "a80f85f8dcd2aea4",
+  "active": "8c85aa5042618672",
   "lastOpenFiles": [
+    "2026-09-28.md",
+    "Excalidraw/Drawing 2026-09-28 00.06.16.excalidraw.md",
+    "Excalidraw",
+    "嵌入式学习资料/00_学习规划与求职/计划.md",
+    "README.md",
+    "嵌入式学习资料/01_计算机语言/C语言/预处理与宏",
+    "嵌入式学习资料/01_计算机语言/C语言/面试题",
+    "嵌入式学习资料/01_计算机语言/C语言/结构体联合体枚举",
+    "嵌入式学习资料/01_计算机语言/C语言/编译链接",
+    "嵌入式学习资料/01_计算机语言/C语言/文件IO",
+    "嵌入式学习资料/01_计算机语言/C语言/指针与内存",
+    "嵌入式学习资料/01_计算机语言/C语言/基础语法",
+    "嵌入式学习资料/01_计算机语言/C语言/函数与回调",
+    "嵌入式学习资料/01_计算机语言/C++/面向对象",
     "dasfsdh.md",
     "笔记.md",
-    "note",
     "asdfasd.md",
     "dasfgdas.md",
     "欢迎.md",
