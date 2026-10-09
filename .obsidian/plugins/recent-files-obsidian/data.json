@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "00_知识图谱",
-      "path": "00 开篇总览/00_知识图谱.md"
+      "basename": "EtherNet_IP_完整资料归档",
+      "path": "EtherNet与IP/EtherNet_IP_完整资料归档.md"
+    },
+    {
+      "basename": "EtherNet_IP_系统学习笔记",
+      "path": "EtherNet与IP/EtherNet_IP_系统学习笔记.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "00_仓库使用说明",
-      "path": "00 开篇总览/00_仓库使用说明.md"
+      "basename": "CAN特点",
+      "path": "通信协议/CAN特点.md"
     },
     {
-      "basename": "00_学习路线",
-      "path": "00 开篇总览/00_学习路线.md"
+      "basename": "错误类型",
+      "path": "通信协议/错误类型.md"
+    },
+    {
+      "basename": "位时序",
+      "path": "通信协议/位时序.md"
+    },
+    {
+      "basename": "位填充",
+      "path": "通信协议/位填充.md"
+    },
+    {
+      "basename": "can的优先级的决定",
+      "path": "通信协议/can的优先级的决定.md"
+    },
+    {
+      "basename": "CAN的协议",
+      "path": "通信协议/CAN的协议.md"
     },
     {
       "basename": "dasfsdh",
