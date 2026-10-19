@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "32f13822baab24df",
+        "id": "668145d6de587185",
         "type": "tabs",
         "children": [
           {
-            "id": "52cf3ffc9de39cb2",
+            "id": "35a7fcef9a69fd64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Linux/Linux命令/磁盘与文件系统.md",
+                "bFile": "Linux/Linux命令/磁盘与文件系统.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: 磁盘与文件系统  (Working Tree)"
             }
           }
         ]
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "errno perror strerror.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -272,18 +272,25 @@
   },
   "active": "d3dacbbbc8c074cd",
   "lastOpenFiles": [
-    "errno perror strerror.md",
-    "面试/HR面试.md",
+    "涂一波-嵌入式软件工程师-简历 .pdf",
+    "README.md",
+    "面试",
+    "项目",
     "学习目录.md",
-    "UNP",
+    "Linux/errno perror strerror.md",
+    "面试/C与c++面试题.md",
+    "面试/HR面试.md",
+    "通信协议/CANFD",
+    "通信协议/FlexRay",
+    "通信协议/SENT",
+    "通信协议/EtherNetIP",
+    "通信协议/WebSocket",
+    "通信协议/HTTP-HTTPS",
+    "通信协议/Cat1-4G-5G",
     "Linux/标准io 李慧芹.md",
     "Linux/APUE/标准IO.md",
     "Linux/APUE/进程.md",
     "Linux/APUE/文件IO.md",
-    "Linux/APUE",
-    "项目",
-    "面试",
-    "C",
     "Linux/Linux命令/帮助.md",
     "Linux/Linux命令/磁盘与文件系统.md",
     "Linux/Linux命令/Linux 命令完整目录.md",
@@ -294,21 +301,13 @@
     "Linux/Linux命令/网络工具.md",
     "Linux/Linux命令/其他.md",
     "Linux/Linux命令/进程管理.md",
-    "Linux/Linux命令/未命名",
-    "Linux/Linux命令",
-    "README.md",
     "Linux/APUE/套接字.md",
     "Linux/APUE/通信.md",
     "Linux/APUE/信号.md",
     "Linux/APUE/线程.md",
     "Linux/未命名.canvas",
-    "Linux/APUE/code",
-    "Linux",
-    "C++/code",
     "c++/面试题.md",
     "c++/内存管理.md",
-    "c++/学习目标.md",
-    "Linux/linux应用/信号.md",
     "Linux/linux应用/assit/环境表.png",
     "Linux/linux应用/assit/Pasted image 20261014232424.png",
     "Linux/linux应用/assit/c程序怎么终止.png",
